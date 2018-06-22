@@ -1,0 +1,32 @@
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\obj\Debug\Academia Teste.csprojResolveAssemblyReference.cache
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Academia Teste.dll.config
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Academia Teste.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Academia Teste.pdb
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\EntityFramework.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\EntityFramework.SqlServer.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Microsoft.Owin.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Microsoft.Owin.Security.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Owin.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\System.Web.Helpers.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\System.Web.Razor.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\System.Web.Webpages.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\System.Web.Webpages.Razor.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\EntityFramework.xml
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\EntityFramework.SqlServer.xml
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Microsoft.Owin.xml
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Microsoft.Owin.Security.xml
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\System.Web.Razor.xml
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\System.Web.Webpages.xml
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\System.Web.Webpages.Razor.xml
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\bin\System.Web.Helpers.xml
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\obj\Debug\Academia Teste.dll
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\obj\Debug\Academia Teste.pdb
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\obj\Debug\Academia_Teste.Migrations.InitialCreate.resources
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\obj\Debug\Academia Teste.csproj.GenerateResource.Cache
+C:\Users\Vaine\Documents\Workspace\Academia Teste\Academia Teste\obj\Debug\Academia_Teste.Migrations.CriaTipoUsuario.resources
